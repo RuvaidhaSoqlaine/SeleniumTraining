@@ -1,0 +1,3 @@
+sauce.login.username.xpath=.//input[@id='user-name']
+sauce.login.password.xpath=.//input[@id='password']
+sauce.login.signup.xpath=.//input[@id='login-button']
